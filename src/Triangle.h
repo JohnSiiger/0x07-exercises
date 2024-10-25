@@ -17,9 +17,9 @@ class Triangle(){
     double getB();
     double getC();
   // Setters
-    void setA();
-    void setB();
-    void setC();
+    void setA(double a);
+    void setB(double b);
+    void setC(double c);
   private:
   // Data members
     double a;
