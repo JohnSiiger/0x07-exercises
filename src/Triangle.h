@@ -9,7 +9,7 @@ class Triangle(){
     void setSides(doubla a, double b, double c);
     double circumference();
     double area();
-    void print()
+    void print();
   private:
     double a;
     double b;
